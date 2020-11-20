@@ -1,0 +1,1 @@
+deathtimer = 5
